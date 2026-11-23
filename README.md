@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.webp" alt="Well Dweller — Spolszczenie PL"></p>
+<p align="center"><img src="banner.webp?v=f78a227b551e" alt="Well Dweller — Spolszczenie PL"></p>
 
 # Well Dweller — Spolszczenie PL
 
