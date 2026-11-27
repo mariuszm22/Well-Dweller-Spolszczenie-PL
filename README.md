@@ -48,7 +48,7 @@ Dołącz zrzut ekranu i krótki opis miejsca, w którym występuje problem. [Git
 
 ## ⚠️ Informacja
 
-[Strona projektu](https://marko22.pl/well-dweller) · [Kulisy spolszczenia](https://marko22.pl/assets/downloads/well-dweller/Kulisy_spolszczenia_Well_Dweller.html) · [Well Dweller w Steam](https://store.steampowered.com/app/3699590/)
+[Strona projektu](https://marko22.pl/well-dweller) · [Kulisy spolszczenia](https://marko22.pl/assets/downloads/well-dweller/Kulisy_spolszczenia_Well_Dweller) · [Well Dweller w Steam](https://store.steampowered.com/app/3699590/)
 
 Autor spolszczenia i redakcja: **marko22**. Projekt fanowski. Prawa do gry i jej grafiki należą do ich właścicieli.
 
